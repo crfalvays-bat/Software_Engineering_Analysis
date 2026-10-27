@@ -1,11 +1,17 @@
 # Software_Engineering_Analysis
 
-# Comparative Software Engineering Process Analysis: Modern E-Commerce Platforms vs. Safety-Critical Healthcare Systems
+# From Release Velocity to Patient Safety: A Comparative Analysis of Software Engineering Processes in E-Commerce and Healthcare IT
 
 **Author:** Yino Alva  
 **Institution:** Concordia University Chicago  
 **Course:** Software Engineering  
 **Faculty Sponsor:** Dr. Visvasuresh (Victor) Govindaswamy  
+
+---
+## 🔗 Professional Portfolio & Links
+
+- 💼 **LinkedIn Profile:** [Yino Alva on LinkedIn](www.linkedin.com/in/yino-alva-71a8403b0)
+- 🎥 **YouTube Presentation:** [Watch Poster & Project Overview on YouTube]([https://youtu.be/zG_2VjeATvY?si=o_Vs9oikju10-G0Z)
 
 ---
 
