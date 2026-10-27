@@ -9,7 +9,7 @@
 ## 🔗 Professional Portfolio & Links
 
 - 💼 **LinkedIn Profile:** [Yino Alva on LinkedIn](www.linkedin.com/in/yino-alva-71a8403b0)
-- 🎥 **YouTube Presentation:** [Watch Poster & Project Overview on YouTube]([https://youtu.be/zG_2VjeATvY?si=o_Vs9oikju10-G0Z)
+- 🎥 **YouTube Presentation:** [Watch Poster & Project Overview on YouTube](https://youtu.be/zG_2VjeATvY?si=o_Vs9oikju10-G0Z)
 
 ---
 
