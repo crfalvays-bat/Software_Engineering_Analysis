@@ -4,7 +4,7 @@
 
 **Author:** Yino Alva  
 **Institution:** Concordia University Chicago  
-**Course:** BLA 02 - Software Engineering / Software Process  
+**Course:** Software Engineering  
 **Faculty Sponsor:** Dr. Visvasuresh (Victor) Govindaswamy  
 
 ---
