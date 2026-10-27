@@ -1,0 +1,14 @@
+# Abstract & Executive Summary
+
+**Project Title:** Comparative Software Engineering Process Analysis: Modern E-Commerce Platforms vs. Safety-Critical Healthcare Systems  
+**Author:** Yino Alva  
+**Institution:** Concordia University Chicago  
+**Course:** BLA 02 - Software Engineering / Software Process  
+**Faculty Advisor:** Dr. Visvasuresh (Victor) Govindaswamy  
+
+---
+
+## 📝 Formal Abstract
+
+### Field
+This study presents a comparative software engineering evaluation examining how process models apply to two distinct domain case studies: Shopify (a high-volume commercial e-commerce platform) and Epic Systems (a safety-critical healthcare Electronic Health Record system). The analysis evaluates how software specification, design/implementation, validation, and evolution function across fast-paced commercial and heavily regulated healthcare environments. While Shopify’s documented practices leverage microservices, automated continuous integration/continuous deployment (CI/CD) pipelines, and real-time cloud releases for continuous feature delivery, healthcare platforms like Epic Systems combine iterative internal development with structured plan-driven phase gates, Change Control Board (CCB) oversight, and multi-tier clinical simulation. This comparative study highlights how team workflows adapt to system reliability, security, and regulatory constraints.
