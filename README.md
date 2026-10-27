@@ -76,7 +76,7 @@ This repository contains the software engineering research poster and supporting
 ## 🖼️ Original Software Engineering Visuals
 
 ### Visual Artifact 1: Plan-Driven Waterfall Lifecycle Model
-![Waterfall Model Diagram](Water_Fall_Model#2.jpg)
+![Waterfall Model Diagram](Water_Fall_Model%232.jpg)
 
 ### Visual Artifact 2: Agile / Incremental Delivery Loop Model
 ![Incremental Delivery Loop Diagram](Incremental_Development_Model.jpg)
