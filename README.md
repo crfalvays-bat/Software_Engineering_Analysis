@@ -1,5 +1,3 @@
-# Software_Engineering_Analysis
-
 # From Release Velocity to Patient Safety: A Comparative Analysis of Software Engineering Processes in E-Commerce and Healthcare IT
 
 **Author:** Yino Alva  
